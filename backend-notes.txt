@@ -1,0 +1,22 @@
+1. What is backend development?
+- Backend development is a server side logic that handles data, processes requests,
+and performs operations behind the scenes.When a user clicks a button or submits a
+form on the frontend, an HTTP request is sent to the backend. The backend receives this
+request, processes it, and sends back a response.The backend contains the rules and calculations 
+that the application follows. For example, calculating a shopping cart total, validating a password,
+or checking if a user has permission to access certain data.The backend is responsible for storing, 
+retrieving, updating, and deleting information in databases. This includes user accounts, posts, messages,
+and any other data the app needs to remember.The backend often communicates with other services or the 
+frontend through APIs (Application Programming Interfaces). For example, it might call a payment API to process
+a transaction or send JSON data to the frontend.
+
+2. Give 2 examples of backend frameworks.
+- The 2 examples of backend frameworks that I can gave you is:
+2.1. Django (Python) 
+2.1. Express.js (Node.js)
+
+
+3. What is an API?
+- It is a Application Programming Interfaces that provide a communication bridge between
+frontend and backend, or between backend and external services. It is best for clear endpoint 
+naming conventions, consistent error handling, and secure authentication.
